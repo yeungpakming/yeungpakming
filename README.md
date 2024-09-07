@@ -39,8 +39,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yeungpakming/yeungpakming/output/snake.svg" alt="Snake animation" />
-
-###
