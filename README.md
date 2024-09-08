@@ -1,10 +1,10 @@
 ###
 
-<h2 align="left">Hello everyone, I am Vincent👋</h2>
+<h1 align="left">Hello everyone, I am Vincent👋</h1>
 
 ###
 
-<h4 align="left">-Graduate of CUHK Physics<br><br>-interested in computer vision and graphics programming</h4>
+<h3 align="left">-Graduate of CUHK Physics<br><br>-interested in computer vision and graphics programming</h3>
 
 ###
 
