@@ -33,10 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yeungpakming/yeungpakming/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://cdn.lihkg.com/stickers/dog/itdog4.png"  />
+<img align="left" height="150" src="https://cdn.lihkg.com/stickers/dog/itdog4.png"  />
 
 ###
